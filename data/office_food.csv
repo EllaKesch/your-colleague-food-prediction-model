@@ -1,0 +1,41 @@
+date,day_of_week,month,weather,temperature,yesterday_food,food_category
+2026-03-02,Monday,3,Rainy,8,pasta,leftovers
+2026-03-03,Tuesday,3,Cloudy,10,leftovers,sandwich
+2026-03-04,Wednesday,3,Sunny,14,sandwich,salad
+2026-03-05,Thursday,3,Rainy,9,salad,soup
+2026-03-06,Friday,3,Sunny,16,soup,takeaway
+2026-03-09,Monday,3,Cloudy,11,takeaway,leftovers
+2026-03-10,Tuesday,3,Sunny,15,leftovers,salad
+2026-03-11,Wednesday,3,Rainy,7,salad,soup
+2026-03-12,Thursday,3,Cloudy,12,soup,sandwich
+2026-03-13,Friday,3,Sunny,17,sandwich,takeaway
+2026-03-16,Monday,3,Rainy,6,takeaway,leftovers
+2026-03-17,Tuesday,3,Cloudy,10,leftovers,salad
+2026-03-18,Wednesday,3,Sunny,13,salad,rice dish
+2026-03-19,Thursday,3,Rainy,8,rice dish,soup
+2026-03-20,Friday,3,Sunny,18,soup,takeaway
+2026-03-23,Monday,3,Cloudy,9,takeaway,leftovers
+2026-03-24,Tuesday,3,Sunny,14,leftovers,sandwich
+2026-03-25,Wednesday,3,Cloudy,12,sandwich,salad
+2026-03-26,Thursday,3,Rainy,7,salad,soup
+2026-03-27,Friday,3,Sunny,19,soup,takeaway
+2026-03-30,Monday,3,Rainy,8,takeaway,leftovers
+2026-03-31,Tuesday,3,Sunny,15,leftovers,salad
+2026-04-01,Wednesday,4,Cloudy,12,salad,sandwich
+2026-04-02,Thursday,4,Rainy,10,sandwich,soup
+2026-04-03,Friday,4,Sunny,18,soup,takeaway
+2026-04-06,Monday,4,Rainy,8,takeaway,leftovers
+2026-04-07,Tuesday,4,Cloudy,11,leftovers,salad
+2026-04-08,Wednesday,4,Sunny,16,salad,rice dish
+2026-04-09,Thursday,4,Rainy,9,rice dish,soup
+2026-04-10,Friday,4,Sunny,20,soup,takeaway
+2026-04-13,Monday,4,Cloudy,10,takeaway,leftovers
+2026-04-14,Tuesday,4,Sunny,17,leftovers,sandwich
+2026-04-15,Wednesday,4,Cloudy,13,sandwich,salad
+2026-04-16,Thursday,4,Rainy,8,salad,soup
+2026-04-17,Friday,4,Sunny,19,soup,takeaway
+2026-04-20,Monday,4,Rainy,7,takeaway,leftovers
+2026-04-21,Tuesday,4,Sunny,16,leftovers,salad
+2026-04-22,Wednesday,4,Cloudy,14,salad,pasta
+2026-04-23,Thursday,4,Rainy,9,pasta,soup
+2026-04-24,Friday,4,Sunny,21,soup,takeaway
